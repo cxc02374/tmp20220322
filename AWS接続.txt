@@ -1,0 +1,9 @@
+C:\Users\ctc-g>netstat
+
+アクティブな接続
+
+  プロトコル  ローカル アドレス      外部アドレス           状態
+  TCP         10.10.4.235:52564      192.168.2.27:ms-wbt-server  ESTABLISHED
+  
+  
+  3389はRDP接続のポート
